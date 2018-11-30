@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "local-npm": "1.6.0"
+    "local-npm": "2.2.2"
   },
   "author": {
     "name": "Panda Clouds LLC",
