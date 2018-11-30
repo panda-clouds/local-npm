@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "local-npm": "1.6.0"
+  },
+  "author": {
+    "name": "Panda Clouds LLC",
+    "email": "hello@pandaclouds.com"
+  },
+  "name": "local-npm",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "start" : "local-npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panda-clouds/local-npm.git"
+  }
+}
